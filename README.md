@@ -88,6 +88,7 @@ Clicking any emirate updates:
 ---
 
 ## 🧮 Preview
+**[DOWNLOAD REAL ESTATE UAE DASHBOARD]:** https://drive.google.com/file/d/1uJzuSkzhBRJFlzg-I500Um1EE-m3JmJr/view?usp=sharing
 
 **HOME PAGE**
 <img width="1647" height="925" alt="Home Page" src="https://github.com/user-attachments/assets/30bc1e93-ac2d-4566-9f1a-509bab9a79d6" />
