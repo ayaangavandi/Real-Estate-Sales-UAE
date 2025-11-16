@@ -10,6 +10,7 @@ It provides deep insights into property sales, rentals, market inventory, and em
 
 The dashboard helps stakeholders and consultants make informed decisions by visualizing trends, comparisons, and key metrics through a clean and AI-enhanced design.
 
+https://youtu.be/Zbjb89Q48rk?si=l31eJbYiGdQDUoW7
 ---
 
 ## 📊 Tools & Technologies Used
@@ -83,12 +84,13 @@ Clicking any emirate updates:
 
 ## 🗂 Project Files
 - **UAE_RealEstate_Dataset.xlsx** – Prepared dataset  
-- **Real Estate UAE Dashboard.pbix** – Final Power BI dashboard  
+- **Real Estate UAE Dashboard.pbix** – Final Power BI dashboard
+
+**[DOWNLOAD REAL ESTATE UAE DASHBOARD]:** https://drive.google.com/file/d/1uJzuSkzhBRJFlzg-I500Um1EE-m3JmJr/view?usp=sharing
 
 ---
 
 ## 🧮 Preview
-**[DOWNLOAD REAL ESTATE UAE DASHBOARD]:** https://drive.google.com/file/d/1uJzuSkzhBRJFlzg-I500Um1EE-m3JmJr/view?usp=sharing
 
 **HOME PAGE**
 <img width="1647" height="925" alt="Home Page" src="https://github.com/user-attachments/assets/30bc1e93-ac2d-4566-9f1a-509bab9a79d6" />
@@ -101,6 +103,8 @@ Clicking any emirate updates:
 
 **EMIRATE PAGE**
 <img width="1643" height="921" alt="Emirate Page" src="https://github.com/user-attachments/assets/553bb2a8-55ff-4cfb-a2ee-b9549eb41263" />
+
+## https://youtu.be/Zbjb89Q48rk?si=l31eJbYiGdQDUoW7
 
 ---
 
