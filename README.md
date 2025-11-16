@@ -137,4 +137,10 @@ The **Platinum Pillars UAE Real Estate Dashboard** converts raw data into meanin
 With Excel for preparation, Power BI for analytics, and AI for design, this project delivers a professional and comprehensive overview of UAE real estate market performance.
 
 ---
+## 🤝 Connect
+
+If you'd like to collaborate or explore similar Power BI dashboards:
+
+🔗 [LinkedIn](https://www.linkedin.com/in/ayaan-gavandi-a16202218/)  
+📧 [Email](mailto:ayaangavandi33@gmail.com)
 
